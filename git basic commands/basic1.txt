@@ -41,3 +41,6 @@ git pull origin master -> to make sure you are update
 git branch -> to check all the branches
 git branch {branchName} -> to create new branch
 git checkout {branchName} -> it will check which branch to commit
+
+kisibhi chiz ko master se merge kaise kare
+pehle to git checkout master karenge
