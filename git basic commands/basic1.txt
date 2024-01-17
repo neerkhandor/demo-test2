@@ -26,3 +26,4 @@ kyuki yeh staging area mein hi hai
 
 now to upload into internet
 git remote wali line hi hai jo internet pe remotely upload karegi
+
