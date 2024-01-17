@@ -17,4 +17,12 @@ git status -> kon konse file ab tak git ko nahi pate ki tumne upload nahi kiye
 
 working area mein wo saari files hoti hai jo ki untracked hoti hai git ko nahi malum
 
-git add . saari files ko select karega git mein add karnekeliye
+git add . saari files ko select karega git mein add karne keliye  -> isse files and folders tracked area mein pohoch jayenge
+
+git commit wala command use karne se files staging area mein pohoch jaati hai
+but ab tak upload nahi hui hai
+for eg i had 5 files and i wanted to upload only 3 files then mein ab bhi changes kar sakta hu 
+kyuki yeh staging area mein hi hai
+
+now to upload into internet
+git remote wali line hi hai jo internet pe remotely upload karegi
