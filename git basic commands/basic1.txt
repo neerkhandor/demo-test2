@@ -27,3 +27,17 @@ kyuki yeh staging area mein hi hai
 now to upload into internet
 git remote wali line hi hai jo internet pe remotely upload karegi
 
+git reset -> makes all file untracked
+
+.gitignore -> git se kuch matlab nahi hai isse
+*.html ->this will ignore all the files ending with .html
+
+git remote remove origin
+
+git remote add origin https://github.com/neerkhandor/{nameOfRepo}.git
+
+git pull origin master -> to make sure you are update
+
+git branch -> to check all the branches
+git branch {branchName} -> to create new branch
+git checkout {branchName} -> it will check which branch to commit
