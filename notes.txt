@@ -1,0 +1,16 @@
+git is a central codebase which is present in internet
+it is helpful for coding in collaboration
+koi bhi changes ho wo har bande ko mil jaaye
+git -> it is a software main codebase ka management tool
+ye command line se hi chalega
+github -> same git waali functionalities bas ye website ke roop mein chalegi
+ye to koi bhi browser mein chalega
+
+new repository -> new folder
+commit -> save
+fork -> complete copy
+github issues -> complaint
+
+fork -> 
+
+basics of terminal

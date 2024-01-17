@@ -1,0 +1,20 @@
+
+dir
+. 
+.. 
+this are default
+
+cls -> clear screen
+
+cd->change directory matlab change folder
+current folder ke andar move kar sakte ho
+cd will work for folders only not for files
+
+ek level piche jaane ke liye cd .. or cd ../
+
+git init ->initiallizing git jo ab tak normal file thi usse ab git ka access mil gaya hai
+git status -> kon konse file ab tak git ko nahi pate ki tumne upload nahi kiye
+
+working area mein wo saari files hoti hai jo ki untracked hoti hai git ko nahi malum
+
+git add . saari files ko select karega git mein add karnekeliye
